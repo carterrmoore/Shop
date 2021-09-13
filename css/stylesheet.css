@@ -90,9 +90,10 @@ header {
 
 .btn {
     text-decoration: none;
-    border: none;
+    border: 1px solid black;
     border-radius: 10px;
     padding: 10px 20px;
+    background-color: #d4c93796;
     margin: 10px auto 0 auto;
 
 }
@@ -156,7 +157,7 @@ header {
 }
 
 .shop-item-img {
-    max-width: 15vw;
+    max-width: 45vw;
 }
 
 /* //// ABOUT //// */
