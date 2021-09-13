@@ -313,6 +313,10 @@ input {
         margin: 20px;
     }
     
+    .shop-item-img {
+    max-width: 20vw;
+    }
+    
     .main-cart {
         position: fixed;
         background: #fff;
